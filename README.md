@@ -2,7 +2,7 @@
 
 **Copacitic** is a modern React-based web application designed with a sleek user interface and smooth user experience. This project serves as a showcase of clean code practices, component-driven development, and responsive design.
 
-🔗 **[Live Demo]([https://copacitic.vercel.app/])** | 💻 **[GitHub Repository](https://github.com/asmaa505/Copacitic)**
+🔗 **[Live Demo](https://copacitic.vercel.app/)** | 💻 **[GitHub Repository](https://github.com/asmaa505/Copacitic)**
 
 ---
 
